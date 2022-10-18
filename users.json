@@ -1,0 +1,22 @@
+{
+   "theArchons1" : {
+      "name" : "Barbatos",
+      "element" : "Anemo",
+      "alias" : "Venti",
+      "id": 1
+   },
+   
+   "theArchons2" : {
+      "name" : "Rex Lapis",
+      "element" : "Geo",
+      "alias" : "Zhongli",
+      "id": 2
+   },
+   
+   "theArchons3" : {
+      "name" : "Beelzebub",
+      "element" : "Electro",
+      "alias" : "Raiden Shogun",
+      "id": 3
+   }
+}
